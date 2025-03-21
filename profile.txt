@@ -1,0 +1,61 @@
+<Profile>
+
+Julian Carter
+Senior PHP Engineer
+Tallinn, Harjumaa, Estonia
+
+Professional Summary:
+Highly experienced Senior PHP Engineer with over 8 years of expertise in building, optimizing, and maintaining dynamic web applications and CMS platforms like WordPress and Drupal, as well as robust frameworks including Laravel, Yii2, and Symfony. Adept at developing scalable backend systems, integrating third-party APIs, and implementing custom plugins and modules. Skilled in collaborating with cross-functional teams to deliver feature-rich, user-friendly web solutions. A strong advocate of clean code, security best practices, and continuous learning to stay updated with emerging technologies. Proven ability to lead development teams, mentor junior engineers, and consistently deliver high-quality solutions that exceed client expectations.
+
+Technical Skills:
+- Backend Development: PHP (8+ years), Laravel, Yii2, Symfony, CodeIgniter
+- CMS Platforms: WordPress (Custom Themes & Plugins), Drupal (Module Development)
+- Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), Vue.js, Pixi.js, WebGL, Canvas
+- Database Management: MySQL, PostgreSQL, MongoDB
+- Version Control & CI/CD: Git, GitHub, GitLab, Bitbucket, Jenkins
+- API Integration: REST, GraphQL, Payment Gateways, Social Media APIs
+- Optimization: Performance Tuning, Caching Strategies, Query Optimization
+- Testing & Debugging: PHPUnit, Codeception, Selenium
+- Project Management: Agile (Scrum, Kanban), JIRA, Trello
+- Soft Skills: Team leadership, problem-solving, mentoring, communication
+
+PROFESSIONAL EXPERIENCE:
+INMOST		Full time, Remote | Tallinn, Harjumaa, Estonia
+Senior PHP Engineer	10/2022-09/2024
+- Designed robust sweepstakes platforms that handle high traffic and ensure secure data collection. Implemented advanced validation, automated winner selection algorithms, and real-time dashboards.
+- Built a digital art canvas application using Pixi.js for rendering and additional libraries for networking to ensure a smooth real-time drawing experience.
+- Designed and developed enterprise-level web applications using Laravel and Yii2, supporting 100,000+ daily users.
+- Created custom WordPress themes and plugins tailored to client specifications, increasing site functionality and engagement.
+- Integrated third-party APIs, including payment processors and CRM systems, enhancing application versatility.
+- Implemented advanced caching mechanisms using Redis and Memcached, reducing load times by 40%.
+- Led a team of 6 developers, conducting code reviews, defining architecture, and ensuring adherence to coding standards.
+- Migrated legacy systems to modern frameworks, improving maintainability and reducing technical debt.
+- Conducted security audits and applied best practices to safeguard sensitive user data against potential breaches.
+
+YALANTIS		Full time, Remote | Tartu, Tartumaa, Estonia
+PHP Developer	01/2020-09/2022
+- Built and maintained scalable CMS-driven websites using Drupal and WordPress, enabling seamless content management.
+- Engineered custom Drupal modules to extend platform functionality, enhancing user experience.
+- Developed a multilingual website using Drupal 8, increasing client reach in international markets.
+- Collaborated with UI/UX designers to create responsive, cross-browser-compatible frontends.
+- Optimized SQL queries and database indexing, improving application performance by 30%.
+- Automated deployment processes with Jenkins, reducing release cycle time by 25%.
+- Provided training sessions and documentation for clients to manage and update their CMS platforms independently.
+
+OMISOFT		Full time, Remote | Tartu, Tartumaa, Estonia
+Junior PHP Developer	06/2017-12/2019
+- Designed and implemented dynamic websites using PHP and CodeIgniter, delivering high-quality solutions on tight deadlines.
+- Developed custom e-commerce solutions with payment gateway integration, driving a 20% increase in online sales.
+- Customized WordPress sites with tailored functionalities to meet specific business requirements.
+- Performed thorough debugging and testing, reducing error rates and enhancing application stability.
+- Created RESTful APIs to facilitate seamless communication between client-side applications and backend systems.
+- Implemented role-based access control systems for secure user authentication and authorization.
+- Wrote comprehensive technical documentation to streamline knowledge transfer and project onboarding.
+
+EDUCATION:
+Tallinn University of Technology	Tallinn, Harjumaa, Estonia
+Bachelor Degree in Computer Science	09/2013-06/2017
+
+LANGUAGES:
+- English (Professional)
+- Estonian (Native)
